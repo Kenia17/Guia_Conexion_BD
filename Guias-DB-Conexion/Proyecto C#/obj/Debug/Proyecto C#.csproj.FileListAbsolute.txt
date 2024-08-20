@@ -1,0 +1,11 @@
+C:\Users\USUARIO\OneDrive\Documentos\Programacion II\Guias-DB-Conexion\Proyecto C#\bin\Debug\Proyecto C#.exe.config
+C:\Users\USUARIO\OneDrive\Documentos\Programacion II\Guias-DB-Conexion\Proyecto C#\bin\Debug\Proyecto C#.exe
+C:\Users\USUARIO\OneDrive\Documentos\Programacion II\Guias-DB-Conexion\Proyecto C#\bin\Debug\Proyecto C#.pdb
+C:\Users\USUARIO\OneDrive\Documentos\Programacion II\Guias-DB-Conexion\Proyecto C#\obj\Debug\Proyecto C#.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Documentos\Programacion II\Guias-DB-Conexion\Proyecto C#\obj\Debug\Proyecto_C_.ConexionSQL.resources
+C:\Users\USUARIO\OneDrive\Documentos\Programacion II\Guias-DB-Conexion\Proyecto C#\obj\Debug\Proyecto_C_.Form1.resources
+C:\Users\USUARIO\OneDrive\Documentos\Programacion II\Guias-DB-Conexion\Proyecto C#\obj\Debug\Proyecto_C_.Properties.Resources.resources
+C:\Users\USUARIO\OneDrive\Documentos\Programacion II\Guias-DB-Conexion\Proyecto C#\obj\Debug\Proyecto C#.csproj.GenerateResource.cache
+C:\Users\USUARIO\OneDrive\Documentos\Programacion II\Guias-DB-Conexion\Proyecto C#\obj\Debug\Proyecto C#.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Documentos\Programacion II\Guias-DB-Conexion\Proyecto C#\obj\Debug\Proyecto C#.exe
+C:\Users\USUARIO\OneDrive\Documentos\Programacion II\Guias-DB-Conexion\Proyecto C#\obj\Debug\Proyecto C#.pdb
